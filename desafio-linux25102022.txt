@@ -5,12 +5,12 @@
 #TEMPO POIS VAI TRAVAR A MÁQUINA VIRTUAL.
 
 #01_ Instalação dos Navegadores (Recomendo via Gdebi)
-	_a - Google Chrome;
-	_b - Opera;
-	_c - Microsoft Edge;
-	_d - Vivaldi;
-	_e - Tor;
-	_f - Brave.
+	_a - Google Chrome; OK
+	_b - Opera;OK
+	_c - Microsoft Edge;OK
+	_d - Vivaldi;OK
+	_e - Tor;OK
+	_f - Brave.OK
 	
 #02_ Instalação do suporte ao TTF (TrueType Fonts)
 	a_ Ttf-mscorefonts (Gerenciador de Aplicativos)
