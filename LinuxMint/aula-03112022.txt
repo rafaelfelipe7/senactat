@@ -1,0 +1,39 @@
+Terminal: Ctrl + Alt + T - Bash
+    senac   = seu usuario
+	@       = concaternar
+	senac!! = nome do computador
+	-------------------------------
+	~       = alias referencia ao seu Home
+	$       = referencia ao usuario sem direito
+	#       = super usuario ---> root: sudo
+	--------------------------------------------
+	sudo -i()
+	exit    (sair,atalho Crtl + D )
+	history (historico de comandos)
+	   !    (executar o comando na linha do history)
+	clear   (limpar a tela, atalho Crtl + L)
+	-----------------------------------------
+	Pedir ajuda no Linux 
+	apt      (ajuda simples )
+	-- help  (ajuda resumida do comando )
+	man      (manual do usuario)
+	-----------------------------------------
+	q        (quit)
+	Guia Foca     -PT-BR https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmzoqHmZP7AhUyLbkGHTN_CZgQFnoECAgQAQ&url=https%3A%2F%2Fwww.guiafoca.org%2F&usg=AOvVaw1lwHUwXcABqPrLggpH7t6O
+	SS64         -EN https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-9LCkmZP7AhWiBLkGHRiqA3EQFnoECAgQAQ&url=https%3A%2F%2Fss64.com%2F&usg=AOvVaw2iJSHE87T0NCsGGzBAcrbE
+	-------------------------------------------------------------------------
+	Comandos de Diretorios e Arquivos 
+	git clone   ( clonar repositorio do GitHub)
+	ls          (listar arquivos ou diretorios)
+	ls -lh      (modo lista detalhado)
+	cd          ( mudar de diretorio)
+	TAB         ( Tabular: auto-completar)
+	CD ..       ( voltar um diretorio)
+	cd ..
+	
+	
+	
+	
+	
+	
+	
