@@ -1,0 +1,10 @@
+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
+
+ git config --global user.email "rafael191408@gmail.com"
+  git config --global user.name "rafaelfelipe7"
+
+
+git pull ( verificar mudanças no GitHub) 
+git add. ( aceitar as mudanças locais)
+git commit -m "Arualizacao"
+git push (
